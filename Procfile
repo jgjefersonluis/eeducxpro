@@ -1,0 +1,1 @@
+web: gunicorn eeducxpro.wsgi --log-file -
